@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sunil Tamang</h1>
 <h3 align="center">I am python and java developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunieltmg&label=Profile%20views&color=0e75b6&style=flat" alt="sunieltmg" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunieltmg&label=Profile%20views&color=0e75b6&style=flat" alt="sunieltmg" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunieltmg" alt="sunieltmg" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunieltmg" alt="sunieltmg" /></a> </p> -->
 
 - 🌱 I’m currently learning **django, javascript, java and python**
 
